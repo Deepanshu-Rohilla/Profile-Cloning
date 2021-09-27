@@ -44,6 +44,9 @@ pip install -r requirements.txt
 ```
 
 # Results
-
-
-
+![](output/result1.png) </br> </br>  </br> </br> 
+![](output/result2.png) </br> </br>  </br> </br> 
+![](output/result3.png) </br> </br>  </br> </br> 
+![](output/result4.png) </br> </br>  </br> </br> 
+![](output/result5.png) </br> </br>  </br> </br> 
+![](output/result6.png) </br> </br>  </br> </br> 
